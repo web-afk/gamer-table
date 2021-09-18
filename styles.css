@@ -1,0 +1,70 @@
+/*Primer sitio*/
+
+body{
+    background-color: #ececec;
+}
+
+.header{
+    background-color: #0D0D0D;
+}
+
+.header a,
+.header a:hover,
+.header a:active,
+.header a:focus{
+    color: #ececec;
+}
+
+.header a:hover{
+    text-decoration: underline;
+}
+
+.padding{
+    padding-right: 10rem;
+}
+
+.icono:hover{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.back{
+    background-color: #37F230;
+}
+
+.line{
+    height: 1px;
+    width: 100%;
+    background-color: #1E5915;
+}
+
+.transparent{
+    background: transparent;
+    border: none;
+}
+
+.green{
+    background-color: #37F230;
+}
+
+.back-consola{
+    background-color: #1E5915;
+    color: #fff;
+}
+
+.form input[type="text"],
+.form textarea{
+    width: 100%;
+    height: 100%;
+}
+
+.back-footer{
+    background-color: #36BF21;
+}
+
+/*Segundo sitio*/
+
+.imagenes div img{
+    width: 100%;
+    height: auto;
+}
